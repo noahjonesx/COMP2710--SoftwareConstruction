@@ -1,10 +1,18 @@
 Script started on 2022-04-21 19:17:06-04:00 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="238" LINES="56"]
-                                                                                                                                                                                                                                              ]0;cryptic@cryptic: ~/Downloads/COMP2710/M5[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+                                                                                                                                                                                                                                              
+
+]0;cryptic@cryptic: ~/Downloads/COMP2710/M5
+[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+
 p5_hints.cpp  [0m[01;32mProject5_Jones_nhj0004[0m  Project5_Jones_nhj0004.cpp  Project5_Jones_nhj0004.script  Project5.pdf
-                                                                                                                                                                                                                                              ]0;cryptic@cryptic: ~/Downloads/COMP2710/M5
-[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31m,[0m[39m[1m[31m,[1m[31m.[0m[39m[1m[31m,[0m[39m[0m[39m [0m[39m [32m.[39m[32m.[39m[38;2;153;153;153m/p5[39m[39m[4m.[39m[4m/[24m[4m.[4m/[39m[4mP[24m[39m [4mP[4mr[24m[4mr[4mo[24m[4mo[4mj[24m[4mj[4me[24m[4me[4mc[24m[4mc[4mt[24m[4mt[4m5[24m[4m5[4m_[24m[4m_[4mJ[24m[4mJ[4mo[24m[4mo[4mn[24m[4mn[4me[24m[4me[4ms[24m[4ms[4m_[24m[4m_[4mn[24m[4mn[4mh[24m[4mh[4mj[24m[4mj[4m0[24m[4m0[4m0[24m[4m0[4m0[24m[23D[24m[32m.[24m[32m/[24m[32mP[24m[32mr[24m[32mo[24m[32mj[24m[32me[24m[32mc[24m[32mt[24m[32m5[24m[32m_[24m[32mJ[24m[32mo[24m[32mn[24m[32me[24m[32ms[24m[32m_[24m[32mn[24m[32mh[24m[32mj[24m[32m0[24m[32m0[24m[32m0[32m4[39m[?1l>[?2004l
+                                                                                                                                                                                                                                              
+
+]0;cryptic@cryptic: ~/Downloads/COMP2710/M5
+
+[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31m,[0m[39m[1m[31m,[1m[31m.[0m[39m[1m[31m,[0m[39m[0m[39m [0m[39m [32m.[39m[32m.[39m[38;2;153;153;153m/p5[39m[39m[4m.[39m[4m/[24m[4m.[4m/[39m[4mP[24m[39m [4mP[4mr[24m[4mr[4mo[24m[4mo[4mj[24m[4mj[4me[24m[4me[4mc[24m[4mc[4mt[24m[4mt[4m5[24m[4m5[4m_[24m[4m_[4mJ[24m[4mJ[4mo[24m[4mo[4mn[24m[4mn[4me[24m[4me[4ms[24m[4ms[4m_[24m[4m_[4mn[24m[4mn[4mh[24m[4mh[4mj[24m[4mj[4m0[24m[4m0[4m0[24m[4m0[4m0[24m[23D[24m[32m.[24m[32m/[24m[32mP[24m[32mr[24m[32mo[24m[32mj[24m[32me[24m[32mc[24m[32mt[24m[32m5[24m[32m_[24m[32mJ[24m[32mo[24m[32mn[24m[32me[24m[32ms[24m[32m_[24m[32mn[24m[32mh[24m[32mj[24m[32m0[24m[32m0[24m[32m0[32m4[39m[?1l>[?2004l
+
 Banner id: 904165204
 producer produce item 7
 consumer consume item 7
@@ -26,16 +34,33 @@ producer produce item 63
 consumer consume item 63
 producer produce item 70
 consumer consume item 70
-                                                                                                                                                                                                                                              ]0;cryptic@cryptic: ~/Downloads/COMP2710/M5
-[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[A[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [32m./Project5_Jones_nhj0004[39m[24D[32ml[32ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[32mc[32mo[32mde[39m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [32mapt-get[39m install code[20D[32ms[32mh[39m[39m [35m-[35mc[39m[39m [39m‘echo “deb [1m[34m[[0m[39march=amd64 signed-by=/etc/apt/trusted.gpg.d/packages.microsoft.gpg[1m[34m][0m[39m https://packages.microsoft.com/repos/vscode stable main” [1m[34m>[0m[39m /etc/apt/sources.list.d/vscode.list’[K[A[63D[32ma[32mp[32mt[32m-[32mg[32me[32mt[39m install c[0m[39mode[K[1B[K[A[29C[25D[24m[32mc[24m[32mo[24m[32md[24m[32me[39m [39m [39m [39m [39m [39m [39m [39m              [21D[32ml[32ms[39m[39m [39m [32m.[32m/[32mProject5_Jones_nhj0004[39m[24D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[32m./Project5_Jones_nhj0004[39m[24D[32ml[32ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[32m.[32m/[32mProject5_Jones_nhj0004[39m[24D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[1m[31mg[0m[39m[1m[31mg[0m[39m[38;2;153;153;153m++ Project5_Jones_nhj0004.cpp -o "p5" -lpthread[39m[47D[1m[31mg[1m[31m+[0m[39m[0m[32mg[0m[32m+[32m+[39m[39m [39m[4mP[39m[4mr[39m[4mo[39m[4mj[39m[4me[39m[4mc[39m[4mt[39m[4m5[39m[4m_[39m[4mJ[39m[4mo[39m[4mn[39m[4me[39m[4ms[39m[4m_[39m[4mn[39m[4mh[39m[4mj[39m[4m0[39m[4m0[39m[4m0[39m[4m4[39m[4m.[39m[4mc[39m[4mp[39m[4mp[24m[39m [35m-[35mo[39m[39m [33m"[33mp[33m5[33m"[39m[39m [35m-[35ml[35mp[35mt[35mh[35mr[35me[35ma[35md[39m[?1l>[?2004l[1B                                                                                                                      ]0;cryptic@cryptic: ~/Downloads/COMP2710/M5
-[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31ms[0m[39m[1m[31ms[0m[39m[38;2;153;153;153mudo apt-get install code[39m[24D[1m[31ms[1m[31mc[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[38;2;153;153;153mript p5.script[39m[14D[1m[31ms[1m[31mc[1m[31mr[0m[39m[1m[31mr[1m[31mi[0m[39m[1m[31mi[1m[31mp[0m[39m[0m[32ms[0m[32mc[0m[32mr[0m[32mi[0m[32mp[32mt[39m[39m [39mp[39m5[39m.[39ms[39mc[39mr[39mi[39mp[39mt[?1l>[?2004l
+                                                                                                                                                                                                                                              
+
+]0;cryptic@cryptic: ~/Downloads/COMP2710/M5
+
+[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h
+
+[A[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m 
+
+[A[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [32m./Project5_Jones_nhj0004[39m[24D[32ml[32ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[32mc[32mo[32mde[39m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [32mapt-get[39m install code[20D[32ms[32mh[39m[39m [35m-[35mc[39m[39m [39m‘echo “deb [1m[34m[[0m[39march=amd64 signed-by=/etc/apt/trusted.gpg.d/packages.microsoft.gpg[1m[34m][0m[39m https://packages.microsoft.com/repos/vscode stable main” [1m[34m>[0m[39m /etc/apt/sources.list.d/vscode.list’[K[A[63D[32ma[32mp[32mt[32m-[32mg[32me[32mt[39m install c[0m[39mode[K[1B
+[K[A[29C[25D[24m[32mc[24m[32mo[24m[32md[24m[32me[39m [39m [39m [39m [39m [39m [39m [39m              [21D[32ml[32ms[39m[39m [39m [32m.[32m/[32mProject5_Jones_nhj0004[39m[24D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[32m./Project5_Jones_nhj0004[39m[24D[32ml[32ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[32m.[32m/[32mProject5_Jones_nhj0004[39m[24D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[1m[31mg[0m[39m[1m[31mg[0m[39m[38;2;153;153;153m++ Project5_Jones_nhj0004.cpp -o "p5" -lpthread[39m[47D[1m[31mg[1m[31m+[0m[39m[0m[32mg[0m[32m+[32m+[39m[39m [39m[4mP[39m[4mr[39m[4mo[39m[4mj[39m[4me[39m[4mc[39m[4mt[39m[4m5[39m[4m_[39m[4mJ[39m[4mo[39m[4mn[39m[4me[39m[4ms[39m[4m_[39m[4mn[39m[4mh[39m[4mj[39m[4m0[39m[4m0[39m[4m0[39m[4m4[39m[4m.[39m[4mc[39m[4mp[39m[4mp[24m[39m [35m-[35mo[39m[39m [33m"[33mp[33m5[33m"[39m[39m [35m-[35ml[35mp[35mt[35mh[35mr[35me[35ma[35md[39m[?1l>[?2004l[1B
+                                                                                                                      
+
+]0;cryptic@cryptic: ~/Downloads/COMP2710/M5
+
+[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31ms[0m[39m[1m[31ms[0m[39m[38;2;153;153;153mudo apt-get install code[39m[24D[1m[31ms[1m[31mc[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[38;2;153;153;153mript p5.script[39m[14D[1m[31ms[1m[31mc[1m[31mr[0m[39m[1m[31mr[1m[31mi[0m[39m[1m[31mi[1m[31mp[0m[39m[0m[32ms[0m[32mc[0m[32mr[0m[32mi[0m[32mp[32mt[39m[39m [39mp[39m5[39m.[39ms[39mc[39mr[39mi[39mp[39mt[?1l>[?2004l
+
 Script started, output log file is 'p5.script'.
-                                                                                                                      ]0;cryptic@cryptic: ~/Downloads/COMP2710/M5[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[32m.[39m[32m.[39m[38;2;153;153;153m/p5[39m[39m[4m.[39m[4m/[24m[24m[1m[31m.[24m[1m[31m/[1m[31m5[0m[39m[39m [0m[39m[4m.[0m[39m[4m/[24m[0m[39m [38;2;153;153;153mp5[39m[4m.[4m/[39m[4mp[24m[24m[32m.[24m[32m/[24m[32mp[32m5[39m[?1l>[?2004l
+                                                                                                                      
+
+]0;cryptic@cryptic: ~/Downloads/COMP2710/M5
+[0m[27m[24m[J[32m┌──([1m[32m[34mcryptic㉿cryptic[0m[34m[32m)-[[1m[32m[39m~/Downloads/COMP2710/M5[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[32m.[39m[32m.[39m[38;2;153;153;153m/p5[39m[39m[4m.[39m[4m/[24m[24m[1m[31m.[24m[1m[31m/[1m[31m5[0m[39m[39m [0m[39m[4m.[0m[39m[4m/[24m[0m[39m [38;2;153;153;153mp5[39m[4m.[4m/[39m[4mp[24m[24m[32m.[24m[32m/[24m[32mp[32m5[39m[?1l>[?2004l
+
 Banner id: 904165204
 producer produce item 7
 consumer consume item 7
